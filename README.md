@@ -45,6 +45,6 @@ lista desordenada:
 
 [Enlace a Wikipedia](https://es.wikipedia.org/wiki/Wikipedia:Portada "clica")
 
-
+![pokemon blastoise](https://github.com/danielfont-z/TestMarkdown/blob/main/blastoise.png "tipo agua")
 
 
