@@ -47,4 +47,11 @@ lista desordenada:
 
 ![pokemon blastoise](https://github.com/danielfont-z/TestMarkdown/blob/main/blastoise.png "tipo agua")
 
+| Encabezado 1 | Encabezado 2 | Encabezado 3 |
+| ------------ |:------------:| ------------:|
+| Item 1 | Boligrafos | 20$ |
+| Item 2 | Grapadoras | 1000$ |
+| Item 3 | Lapices | 150$ |
+
+
 
